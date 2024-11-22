@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper device="HDJCMIX" author="Atomix Productions" version="850" date="2024-01-15">
+	<map value="SHIFT" action="shift" />
+	<map value="PAD_MODE_HOTCUES" action="pad_pages 1" />
+	<map value="PAD_MODE_SAMPLER" action="pad_pages 2" />
+	<map value="PAD_MODE_FX" action="pad_pages 3" />
+	<map value="PAD_MODE_LOOP" action="pad_pages 4" />
+	<map value="PAD_HOTCUE_1" action="pad 1" />
+	<map value="PAD_HOTCUE_2" action="pad 2" />
+	<map value="PAD_HOTCUE_3" action="pad 3" />
+	<map value="PAD_HOTCUE_4" action="pad 4" />
+	<map value="SHIFT_PAD_HOTCUE_1" action="padshift 1" />
+	<map value="SHIFT_PAD_HOTCUE_2" action="padshift 2" />
+	<map value="SHIFT_PAD_HOTCUE_3" action="padshift 3" />
+	<map value="SHIFT_PAD_HOTCUE_4" action="padshift 4" />
+	<map value="PAD_FX_1" action="pad 1" />
+	<map value="PAD_FX_2" action="pad 2" />
+	<map value="PAD_FX_3" action="pad 3" />
+	<map value="PAD_FX_4" action="pad 4" />
+	<map value="SHIFT_PAD_FX_1" action="padshift 1" />
+	<map value="SHIFT_PAD_FX_2" action="padshift 2" />
+	<map value="SHIFT_PAD_FX_3" action="padshift 3" />
+	<map value="SHIFT_PAD_FX_4" action="padshift 4" />
+	<map value="PAD_SAMPLER_1" action="pad 1" />
+	<map value="PAD_SAMPLER_2" action="pad 2" />
+	<map value="PAD_SAMPLER_3" action="pad 3" />
+	<map value="PAD_SAMPLER_4" action="pad 4" />
+	<map value="SHIFT_PAD_SAMPLER_1" action="padshift 1" />
+	<map value="SHIFT_PAD_SAMPLER_2" action="padshift 2" />
+	<map value="SHIFT_PAD_SAMPLER_3" action="padshift 3" />
+	<map value="SHIFT_PAD_SAMPLER_4" action="padshift 4" />
+	<map value="PAD_LOOP_1" action="pad 1" />
+	<map value="PAD_LOOP_2" action="pad 2" />
+	<map value="PAD_LOOP_3" action="pad 3" />
+	<map value="PAD_LOOP_4" action="pad 4" />
+	<map value="SHIFT_PAD_LOOP_1" action="padshift 1" />
+	<map value="SHIFT_PAD_LOOP_2" action="padshift 2" />
+	<map value="SHIFT_PAD_LOOP_3" action="padshift 3" />
+	<map value="SHIFT_PAD_LOOP_4" action="padshift 4" />
+	<map value="SYNC" action="sync" />
+	<map value="CUE" action="cue_stop" />
+	<map value="PLAY_PAUSE" action="play_pause" />
+	<map value="SHIFT_SYNC" action="pitch_reset" />
+	<map value="SHIFT_CUE" action="goto_start" />
+	<map value="SHIFT_PLAY_PAUSE" action="play_stutter" />
+	<map value="LED_SHIFT_SYNC" action="pitch_reset ? blink 500ms" />
+	<map value="PITCH" action="pitch &apos;dual&apos;" />
+	<map value="JOG" action="beatjump" />
+	<map value="JOG_TOUCH" action="jogwheel" />
+	<map value="SHIFT_JOG" action="touchwheel &apos;search&apos;" />
+	<map value="SHIFT_JOG_TOUCH" action="touchwheel_touch &apos;search&apos;" />
+	<map value="PFL" action="pfl" />
+	<map value="VINYL" action="vinyl_mode" />
+	<map value="PFL_MASTER" action="headphone_mix 0% ? off &amp; headphone_mix 100% : headphone_mix 100% ? on &amp; headphone_mix 0% : off &amp; headphone_mix 100%" />
+	<map value="PFL_SPLIT" action="setting &apos;splitHeadphones&apos;" />
+	<map value="VOLUME" action="level" />
+	<map value="BASS" action="eq_low_freq" />
+	<map value="FILTER" action="eq_low_freq" />
+	<map value="CROSSFADER" action="crossfader" />
+	<map value="MASTER_VOLUME" action="master_volume" />
+	<map value="HEADPHONES_VOLUME" action="headphone_volume" />
+</mapper>

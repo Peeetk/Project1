@@ -1,0 +1,255 @@
+--- 2022/12/30 - 16:36 (7131)
+[16:36:35] Timer shaderInit: avg 0.38ms freq 0/s load 100.00% cur 0.38ms max 0.38ms
+[16:36:35] Timer shaderInit: avg 0.22ms freq 0/s load 0.20% cur 0.22ms max 0.38ms
+[16:36:35] Timer shaderInit: avg 0.18ms freq 0/s load 0.25% cur 0.18ms max 0.38ms
+[16:36:35] Timer shaderInit: avg 0.19ms freq 0/s load 1.18% cur 0.19ms max 0.38ms
+[16:36:35] Timer shaderInit: avg 0.23ms freq 0/s load 0.55% cur 0.23ms max 0.38ms
+[16:36:52] Timer shaderInit: avg 0.11ms freq 0/s load 0.00% cur 0.11ms max 0.38ms
+[16:36:52] Timer shaderInit: avg 0.06ms freq 0/s load 0.66% cur 0.06ms max 0.38ms
+[16:37:23] Timer shaderInit: avg 0.31ms freq 0/s load 0.00% cur 0.31ms max 0.38ms
+--- 2022/12/30 - 16:38 (7131)
+[16:38:56] Timer shaderInit: avg 0.54ms freq 0/s load 99.98% cur 0.54ms max 0.54ms
+[16:38:56] Timer shaderInit: avg 0.26ms freq 0/s load 0.45% cur 0.26ms max 0.54ms
+[16:38:56] Timer shaderInit: avg 0.20ms freq 0/s load 0.43% cur 0.20ms max 0.54ms
+--- 2023/01/05 - 15:17 (7131)
+[15:17:54] Timer shaderInit: avg 0.82ms freq 0/s load 100.00% cur 0.82ms max 0.82ms
+[15:17:54] Timer shaderInit: avg 0.51ms freq 0/s load 0.93% cur 0.51ms max 0.82ms
+[15:17:54] Timer shaderInit: avg 0.40ms freq 0/s load 0.54% cur 0.40ms max 0.82ms
+[15:18:44] Timer shaderInit: avg 0.76ms freq 0/s load 0.00% cur 0.76ms max 0.82ms
+[15:18:54] Timer shaderInit: avg 0.36ms freq 0/s load 0.00% cur 0.36ms max 0.82ms
+[15:18:54] Timer shaderInit: avg 0.70ms freq 0/s load 3.21% cur 0.70ms max 0.82ms
+--- 2023/05/22 - 20:43 (7131)
+[20:43:23] Timer shaderInit: avg 0.30ms freq 0/s load 99.97% cur 0.30ms max 0.30ms
+[20:43:23] Timer shaderInit: avg 0.22ms freq 0/s load 0.31% cur 0.22ms max 0.30ms
+[20:43:23] Timer shaderInit: avg 0.28ms freq 0/s load 0.63% cur 0.28ms max 0.30ms
+[20:44:28] Timer shaderInit: avg 0.37ms freq 0/s load 0.00% cur 0.37ms max 0.37ms
+[20:44:28] Timer shaderInit: avg 0.42ms freq 0/s load 17.12% cur 0.42ms max 0.42ms
+[21:22:44] Timer shaderInit: avg 1.19ms freq 0/s load 0.00% cur 1.19ms max 1.19ms
+[21:22:44] Timer shaderInit: avg 0.27ms freq 0/s load 3.33% cur 0.27ms max 1.19ms
+--- 2023/05/22 - 22:47 (7131)
+[22:47:12] Timer shaderInit: avg 0.51ms freq 0/s load 99.98% cur 0.51ms max 0.51ms
+[22:47:12] Timer shaderInit: avg 0.26ms freq 0/s load 0.18% cur 0.26ms max 0.51ms
+[22:47:12] Timer shaderInit: avg 0.25ms freq 0/s load 0.33% cur 0.25ms max 0.51ms
+[22:47:52] Timer shaderInit: avg 0.47ms freq 0/s load 0.00% cur 0.47ms max 0.51ms
+[22:48:28] Timer shaderInit: avg 0.28ms freq 0/s load 0.00% cur 0.28ms max 0.51ms
+[22:48:28] Timer shaderInit: avg 0.19ms freq 0/s load 1.36% cur 0.19ms max 0.51ms
+--- 2023/06/02 - 21:59 (7131)
+[21:59:25] Timer shaderInit: avg 0.31ms freq 0/s load 100.00% cur 0.31ms max 0.31ms
+[21:59:25] Timer shaderInit: avg 0.21ms freq 0/s load 0.29% cur 0.21ms max 0.31ms
+[21:59:25] Timer shaderInit: avg 0.19ms freq 0/s load 0.44% cur 0.19ms max 0.31ms
+[21:59:28] Timer shaderInit: avg 0.41ms freq 0/s load 0.01% cur 0.41ms max 0.41ms
+[21:59:28] Timer shaderInit: avg 0.39ms freq 0/s load 16.32% cur 0.39ms max 0.41ms
+[22:38:25] Timer shaderInit: avg 0.47ms freq 0/s load 0.00% cur 0.47ms max 0.47ms
+[23:09:38] Timer shaderInit: avg 0.51ms freq 0/s load 0.00% cur 0.51ms max 0.51ms
+--- 2023/06/03 - 20:10 (7131)
+[20:10:35] Timer shaderInit: avg 0.50ms freq 0/s load 100.00% cur 0.50ms max 0.50ms
+[20:10:35] Timer shaderInit: avg 0.22ms freq 0/s load 0.36% cur 0.22ms max 0.50ms
+[20:10:35] Timer shaderInit: avg 0.27ms freq 0/s load 0.61% cur 0.27ms max 0.50ms
+[20:13:50] Timer shaderInit: avg 0.55ms freq 0/s load 0.00% cur 0.55ms max 0.55ms
+[20:13:50] Timer shaderInit: avg 1.83ms freq 0/s load 27.51% cur 1.83ms max 1.83ms
+[20:16:16] Timer shaderInit: avg 0.45ms freq 0/s load 0.00% cur 0.45ms max 1.83ms
+[21:16:30] Timer shaderInit: avg 0.25ms freq 0/s load 0.00% cur 0.25ms max 1.83ms
+--- 2023/06/23 - 23:03 (7131)
+[23:03:22] Timer shaderInit: avg 1.38ms freq 0/s load 100.00% cur 1.38ms max 1.38ms
+[23:03:23] Timer shaderInit: avg 0.20ms freq 0/s load 0.20% cur 0.20ms max 1.38ms
+[23:03:23] Timer shaderInit: avg 0.21ms freq 0/s load 0.42% cur 0.21ms max 1.38ms
+[23:03:29] Timer shaderInit: avg 0.40ms freq 0/s load 0.01% cur 0.40ms max 1.38ms
+[23:03:29] Timer shaderInit: avg 0.40ms freq 0/s load 15.03% cur 0.40ms max 1.38ms
+[23:09:22] Timer shaderInit: avg 0.94ms freq 0/s load 0.00% cur 0.94ms max 1.38ms
+--- 2023/08/13 - 20:56 (7131)
+[20:56:40] Timer shaderInit: avg 0.35ms freq 0/s load 99.97% cur 0.35ms max 0.35ms
+[20:56:40] Timer shaderInit: avg 0.18ms freq 0/s load 0.21% cur 0.18ms max 0.35ms
+[20:56:40] Timer shaderInit: avg 0.28ms freq 0/s load 0.64% cur 0.28ms max 0.35ms
+[20:57:01] Timer shaderInit: avg 0.57ms freq 0/s load 0.00% cur 0.57ms max 0.57ms
+[20:57:03] Timer shaderInit: avg 0.15ms freq 0/s load 0.01% cur 0.15ms max 0.57ms
+[20:57:03] Timer shaderInit: avg 0.54ms freq 0/s load 17.53% cur 0.54ms max 0.57ms
+[21:01:02] Timer shaderInit: avg 0.13ms freq 0/s load 0.00% cur 0.13ms max 0.57ms
+--- 2023/08/31 - 19:48 (7131)
+[19:48:10] Timer shaderInit: avg 0.92ms freq 0/s load 100.00% cur 0.92ms max 0.92ms
+[19:48:10] Timer shaderInit: avg 0.21ms freq 0/s load 0.27% cur 0.21ms max 0.92ms
+[19:48:11] Timer shaderInit: avg 0.40ms freq 0/s load 0.66% cur 0.40ms max 0.92ms
+--- 2023/08/31 - 19:48 (7131)
+[19:48:27] Timer shaderInit: avg 0.29ms freq 0/s load 100.00% cur 0.29ms max 0.29ms
+[19:48:27] Timer shaderInit: avg 0.20ms freq 0/s load 0.24% cur 0.20ms max 0.29ms
+[19:48:27] Timer shaderInit: avg 0.19ms freq 0/s load 0.39% cur 0.19ms max 0.29ms
+[19:48:29] Timer shaderInit: avg 0.51ms freq 0/s load 0.02% cur 0.51ms max 0.51ms
+[19:48:30] Timer shaderInit: avg 0.14ms freq 0/s load 0.02% cur 0.14ms max 0.51ms
+[19:48:30] Timer shaderInit: avg 0.38ms freq 0/s load 13.05% cur 0.38ms max 0.51ms
+--- 2023/08/31 - 19:48 (7131)
+[19:48:47] Timer shaderInit: avg 0.33ms freq 0/s load 99.97% cur 0.33ms max 0.33ms
+[19:48:47] Timer shaderInit: avg 0.22ms freq 0/s load 0.35% cur 0.22ms max 0.33ms
+[19:48:47] Timer shaderInit: avg 0.28ms freq 0/s load 0.56% cur 0.28ms max 0.33ms
+[19:48:49] Timer shaderInit: avg 0.28ms freq 0/s load 0.01% cur 0.28ms max 0.33ms
+[19:48:50] Timer shaderInit: avg 0.14ms freq 0/s load 0.03% cur 0.14ms max 0.33ms
+[19:48:50] Timer shaderInit: avg 0.18ms freq 0/s load 0.57% cur 0.18ms max 0.33ms
+[20:39:36] Timer shaderInit: avg 0.27ms freq 0/s load 0.00% cur 0.27ms max 0.33ms
+[20:40:45] Timer shaderInit: avg 0.09ms freq 0/s load 0.00% cur 0.09ms max 0.33ms
+[20:41:07] Timer shaderInit: avg 0.07ms freq 0/s load 0.00% cur 0.07ms max 0.33ms
+[20:44:52] Timer shaderInit: avg 0.05ms freq 0/s load 0.00% cur 0.05ms max 0.33ms
+[20:45:02] Timer shaderInit: avg 0.05ms freq 0/s load 0.00% cur 0.05ms max 0.33ms
+[21:32:52] Timer shaderInit: avg 0.30ms freq 0/s load 0.00% cur 0.30ms max 0.33ms
+[21:47:31] Timer shaderInit: avg 0.29ms freq 0/s load 0.00% cur 0.29ms max 0.33ms
+[21:47:52] Timer shaderInit: avg 0.06ms freq 0/s load 0.00% cur 0.06ms max 0.33ms
+--- 2023/09/08 - 22:10 (7131)
+[22:10:25] Timer shaderInit: avg 0.62ms freq 0/s load 100.00% cur 0.62ms max 0.62ms
+[22:10:25] Timer shaderInit: avg 0.20ms freq 0/s load 0.27% cur 0.20ms max 0.62ms
+[22:10:25] Timer shaderInit: avg 0.24ms freq 0/s load 0.45% cur 0.24ms max 0.62ms
+[22:10:32] Timer shaderInit: avg 0.70ms freq 0/s load 0.01% cur 0.70ms max 0.70ms
+[22:10:32] Timer shaderInit: avg 0.57ms freq 0/s load 16.21% cur 0.57ms max 0.70ms
+[22:14:35] Timer shaderInit: avg 0.28ms freq 0/s load 0.00% cur 0.28ms max 0.70ms
+[22:14:35] Timer shaderInit: avg 0.19ms freq 0/s load 2.77% cur 0.19ms max 0.70ms
+--- 2023/10/25 - 09:52 (7131)
+[09:52:18] Timer shaderInit: avg 0.52ms freq 0/s load 100.00% cur 0.52ms max 0.52ms
+[09:52:18] Timer shaderInit: avg 0.21ms freq 0/s load 0.20% cur 0.21ms max 0.52ms
+[09:52:18] Timer shaderInit: avg 0.21ms freq 0/s load 0.48% cur 0.21ms max 0.52ms
+[09:53:04] Timer shaderInit: avg 0.52ms freq 0/s load 0.00% cur 0.52ms max 0.52ms
+[09:53:44] Timer shaderInit: avg 0.21ms freq 0/s load 0.00% cur 0.21ms max 0.52ms
+[09:53:44] Timer shaderInit: avg 0.45ms freq 0/s load 12.94% cur 0.45ms max 0.52ms
+[10:56:57] Timer shaderInit: avg 0.28ms freq 0/s load 0.00% cur 0.28ms max 0.52ms
+[13:29:38] Timer shaderInit: avg 25.36ms freq 0/s load 0.00% cur 25.36ms max 25.36ms
+[16:38:53] Timer shaderInit: avg 0.56ms freq 0/s load 0.00% cur 0.56ms max 25.36ms
+--- 2024/01/07 - 18:40 (7131)
+[18:40:36] Timer shaderInit: avg 0.29ms freq 0/s load 100.00% cur 0.29ms max 0.29ms
+[18:40:36] Timer shaderInit: avg 0.25ms freq 0/s load 0.26% cur 0.25ms max 0.29ms
+[18:40:36] Timer shaderInit: avg 0.24ms freq 0/s load 0.30% cur 0.24ms max 0.29ms
+[18:40:52] Timer shaderInit: avg 0.58ms freq 0/s load 0.00% cur 0.58ms max 0.58ms
+[18:40:53] Timer shaderInit: avg 0.14ms freq 0/s load 0.01% cur 0.14ms max 0.58ms
+[18:40:53] Timer shaderInit: avg 0.39ms freq 0/s load 8.14% cur 0.39ms max 0.58ms
+--- 2024/01/12 - 17:36 (7131)
+[17:36:09] Timer shaderInit: avg 0.32ms freq 0/s load 100.00% cur 0.32ms max 0.32ms
+[17:36:09] Timer shaderInit: avg 0.23ms freq 0/s load 0.46% cur 0.23ms max 0.32ms
+[17:36:09] Timer shaderInit: avg 0.21ms freq 0/s load 0.40% cur 0.21ms max 0.32ms
+[17:36:20] Timer shaderInit: avg 1.18ms freq 0/s load 0.01% cur 1.18ms max 1.18ms
+[17:36:24] Timer shaderInit: avg 0.22ms freq 0/s load 0.01% cur 0.22ms max 1.18ms
+[17:36:24] Timer shaderInit: avg 0.33ms freq 0/s load 34.83% cur 0.33ms max 1.18ms
+--- 2024/01/12 - 17:48 (7131)
+[17:48:05] Timer shaderInit: avg 0.35ms freq 0/s load 100.00% cur 0.35ms max 0.35ms
+[17:48:05] Timer shaderInit: avg 0.30ms freq 0/s load 0.31% cur 0.30ms max 0.35ms
+[17:48:06] Timer shaderInit: avg 0.19ms freq 0/s load 0.43% cur 0.19ms max 0.35ms
+[17:48:31] Timer shaderInit: avg 0.14ms freq 0/s load 0.00% cur 0.14ms max 0.35ms
+[17:48:31] Timer shaderInit: avg 0.11ms freq 0/s load 4.69% cur 0.11ms max 0.35ms
+--- 2024/01/12 - 17:49 (7131)
+[17:49:50] Timer shaderInit: avg 0.37ms freq 0/s load 100.00% cur 0.37ms max 0.37ms
+[17:49:50] Timer shaderInit: avg 0.24ms freq 0/s load 0.32% cur 0.24ms max 0.37ms
+[17:49:50] Timer shaderInit: avg 0.19ms freq 0/s load 0.43% cur 0.19ms max 0.37ms
+[17:50:02] Timer shaderInit: avg 0.14ms freq 0/s load 0.00% cur 0.14ms max 0.37ms
+[17:50:02] Timer shaderInit: avg 0.11ms freq 0/s load 5.78% cur 0.11ms max 0.37ms
+--- 2024/01/13 - 18:49 (7131)
+[18:49:17] Timer shaderInit: avg 0.35ms freq 0/s load 100.00% cur 0.35ms max 0.35ms
+[18:49:17] Timer shaderInit: avg 0.26ms freq 0/s load 0.42% cur 0.26ms max 0.35ms
+[18:49:17] Timer shaderInit: avg 0.18ms freq 0/s load 0.38% cur 0.18ms max 0.35ms
+[18:49:54] Timer shaderInit: avg 0.39ms freq 0/s load 0.00% cur 0.39ms max 0.39ms
+[18:49:54] Timer shaderInit: avg 0.36ms freq 0/s load 10.29% cur 0.36ms max 0.39ms
+[18:51:20] Timer shaderInit: avg 0.36ms freq 0/s load 0.00% cur 0.36ms max 0.39ms
+--- 2024/01/13 - 18:52 (7131)
+[18:52:20] Timer shaderInit: avg 0.38ms freq 0/s load 100.00% cur 0.38ms max 0.38ms
+[18:52:20] Timer shaderInit: avg 0.18ms freq 0/s load 0.19% cur 0.18ms max 0.38ms
+[18:52:20] Timer shaderInit: avg 0.19ms freq 0/s load 0.42% cur 0.19ms max 0.38ms
+[18:52:27] Timer shaderInit: avg 0.20ms freq 0/s load 0.00% cur 0.20ms max 0.38ms
+[18:52:27] Timer shaderInit: avg 0.18ms freq 0/s load 4.34% cur 0.18ms max 0.38ms
+--- 2024/01/13 - 18:57 (7131)
+[18:57:52] Timer shaderInit: avg 0.30ms freq 0/s load 100.00% cur 0.30ms max 0.30ms
+[18:57:53] Timer shaderInit: avg 0.25ms freq 0/s load 0.33% cur 0.25ms max 0.30ms
+[18:57:53] Timer shaderInit: avg 0.17ms freq 0/s load 0.36% cur 0.17ms max 0.30ms
+[18:58:00] Timer shaderInit: avg 0.16ms freq 0/s load 0.00% cur 0.16ms max 0.30ms
+[18:58:00] Timer shaderInit: avg 0.11ms freq 0/s load 3.93% cur 0.11ms max 0.30ms
+--- 2024/01/13 - 18:59 (7131)
+[18:59:10] Timer shaderInit: avg 0.62ms freq 0/s load 99.98% cur 0.62ms max 0.62ms
+[18:59:10] Timer shaderInit: avg 0.21ms freq 0/s load 0.29% cur 0.21ms max 0.62ms
+[18:59:10] Timer shaderInit: avg 0.19ms freq 0/s load 0.44% cur 0.19ms max 0.62ms
+[18:59:21] Timer shaderInit: avg 0.13ms freq 0/s load 0.00% cur 0.13ms max 0.62ms
+[18:59:21] Timer shaderInit: avg 0.15ms freq 0/s load 0.45% cur 0.15ms max 0.62ms
+--- 2024/01/13 - 19:22 (7131)
+[19:22:42] Timer shaderInit: avg 1.41ms freq 0/s load 100.00% cur 1.41ms max 1.41ms
+[19:22:42] Timer shaderInit: avg 0.27ms freq 0/s load 0.38% cur 0.27ms max 1.41ms
+[19:22:42] Timer shaderInit: avg 0.22ms freq 0/s load 0.49% cur 0.22ms max 1.41ms
+[19:22:52] Timer shaderInit: avg 0.18ms freq 0/s load 0.00% cur 0.18ms max 1.41ms
+[19:22:52] Timer shaderInit: avg 0.23ms freq 0/s load 8.53% cur 0.23ms max 1.41ms
+--- 2024/01/13 - 19:26 (7131)
+[19:26:20] Timer shaderInit: avg 0.34ms freq 0/s load 100.00% cur 0.34ms max 0.34ms
+[19:26:21] Timer shaderInit: avg 0.18ms freq 0/s load 0.23% cur 0.18ms max 0.34ms
+[19:26:21] Timer shaderInit: avg 0.20ms freq 0/s load 0.46% cur 0.20ms max 0.34ms
+[19:26:33] Timer shaderInit: avg 0.18ms freq 0/s load 0.00% cur 0.18ms max 0.34ms
+[19:26:33] Timer shaderInit: avg 0.23ms freq 0/s load 8.86% cur 0.23ms max 0.34ms
+--- 2024/01/15 - 19:52 (7131)
+[19:52:12] Timer shaderInit: avg 0.42ms freq 0/s load 100.00% cur 0.42ms max 0.42ms
+[19:52:12] Timer shaderInit: avg 0.21ms freq 0/s load 0.22% cur 0.21ms max 0.42ms
+[19:52:12] Timer shaderInit: avg 0.20ms freq 0/s load 0.42% cur 0.20ms max 0.42ms
+[19:53:44] Timer shaderInit: avg 0.96ms freq 0/s load 0.00% cur 0.96ms max 0.96ms
+[20:13:21] Timer shaderInit: avg 0.47ms freq 0/s load 0.00% cur 0.47ms max 0.96ms
+[20:13:21] Timer shaderInit: avg 0.18ms freq 0/s load 5.63% cur 0.18ms max 0.96ms
+--- 2024/01/15 - 20:15 (7131)
+[20:15:01] Timer shaderInit: avg 0.36ms freq 0/s load 100.00% cur 0.36ms max 0.36ms
+[20:15:01] Timer shaderInit: avg 0.22ms freq 0/s load 0.34% cur 0.22ms max 0.36ms
+[20:15:01] Timer shaderInit: avg 0.22ms freq 0/s load 0.47% cur 0.22ms max 0.36ms
+[20:15:10] Timer shaderInit: avg 0.17ms freq 0/s load 0.00% cur 0.17ms max 0.36ms
+[20:15:10] Timer shaderInit: avg 0.16ms freq 0/s load 1.58% cur 0.16ms max 0.36ms
+[20:17:12] Timer shaderInit: avg 0.32ms freq 0/s load 0.00% cur 0.32ms max 0.36ms
+[20:22:50] Timer shaderInit: avg 0.20ms freq 0/s load 0.00% cur 0.20ms max 0.36ms
+--- 2024/02/02 - 13:03 (7131)
+[13:03:30] Timer shaderInit: avg 0.29ms freq 0/s load 100.00% cur 0.29ms max 0.29ms
+[13:03:31] Timer shaderInit: avg 0.21ms freq 0/s load 0.22% cur 0.21ms max 0.29ms
+[13:03:31] Timer shaderInit: avg 0.19ms freq 0/s load 0.41% cur 0.19ms max 0.29ms
+[13:03:31] Timer shaderInit: avg 0.68ms freq 0/s load 0.22% cur 0.68ms max 0.68ms
+[13:03:43] Timer shaderInit: avg 0.15ms freq 0/s load 0.00% cur 0.15ms max 0.68ms
+[13:03:43] Timer shaderInit: avg 0.40ms freq 0/s load 13.79% cur 0.40ms max 0.68ms
+--- 2024/02/12 - 17:48 (7131)
+[17:48:20] Timer shaderInit: avg 0.39ms freq 0/s load 100.00% cur 0.39ms max 0.39ms
+[17:48:20] Timer shaderInit: avg 0.20ms freq 0/s load 0.25% cur 0.20ms max 0.39ms
+[17:48:20] Timer shaderInit: avg 0.23ms freq 0/s load 0.46% cur 0.23ms max 0.39ms
+[17:48:33] Timer shaderInit: avg 0.65ms freq 0/s load 0.01% cur 0.65ms max 0.65ms
+[17:48:56] Timer shaderInit: avg 0.22ms freq 0/s load 0.00% cur 0.22ms max 0.65ms
+[17:48:56] Timer shaderInit: avg 0.46ms freq 0/s load 17.74% cur 0.46ms max 0.65ms
+--- 2024/02/14 - 19:12 (7131)
+[19:12:31] Timer shaderInit: avg 0.31ms freq 0/s load 100.00% cur 0.31ms max 0.31ms
+[19:12:31] Timer shaderInit: avg 0.20ms freq 0/s load 0.16% cur 0.20ms max 0.31ms
+[19:12:31] Timer shaderInit: avg 0.20ms freq 0/s load 0.43% cur 0.20ms max 0.31ms
+[19:12:53] Timer shaderInit: avg 0.56ms freq 0/s load 0.00% cur 0.56ms max 0.56ms
+[19:13:14] Timer shaderInit: avg 0.23ms freq 0/s load 0.00% cur 0.23ms max 0.56ms
+[19:13:14] Timer shaderInit: avg 0.44ms freq 0/s load 12.88% cur 0.44ms max 0.56ms
+--- 2024/02/15 - 14:46 (7131)
+[14:46:36] Timer shaderInit: avg 0.38ms freq 0/s load 99.97% cur 0.38ms max 0.38ms
+[14:46:36] Timer shaderInit: avg 0.18ms freq 0/s load 0.28% cur 0.18ms max 0.38ms
+[14:46:36] Timer shaderInit: avg 0.18ms freq 0/s load 0.40% cur 0.18ms max 0.38ms
+[14:46:41] Timer shaderInit: avg 0.43ms freq 0/s load 0.01% cur 0.43ms max 0.43ms
+[14:46:41] Timer shaderInit: avg 0.48ms freq 0/s load 12.36% cur 0.48ms max 0.48ms
+[14:47:30] Timer shaderInit: avg 0.52ms freq 0/s load 0.00% cur 0.52ms max 0.52ms
+--- 2024/02/15 - 16:27 (7131)
+[16:27:26] Timer shaderInit: avg 0.62ms freq 0/s load 100.00% cur 0.62ms max 0.62ms
+[16:27:26] Timer shaderInit: avg 0.36ms freq 0/s load 0.70% cur 0.36ms max 0.62ms
+[16:27:26] Timer shaderInit: avg 0.43ms freq 0/s load 0.83% cur 0.43ms max 0.62ms
+[16:27:30] Timer shaderInit: avg 0.18ms freq 0/s load 0.00% cur 0.18ms max 0.62ms
+[16:27:30] Timer shaderInit: avg 0.39ms freq 0/s load 13.29% cur 0.39ms max 0.62ms
+[16:32:13] Timer shaderInit: avg 0.30ms freq 0/s load 0.00% cur 0.30ms max 0.62ms
+--- 2024/03/25 - 10:44 (7131)
+[10:44:05] Timer shaderInit: avg 0.34ms freq 0/s load 100.00% cur 0.34ms max 0.34ms
+[10:44:05] Timer shaderInit: avg 0.22ms freq 0/s load 0.33% cur 0.22ms max 0.34ms
+[10:44:05] Timer shaderInit: avg 0.19ms freq 0/s load 0.40% cur 0.19ms max 0.34ms
+[10:44:16] Timer shaderInit: avg 0.40ms freq 0/s load 0.00% cur 0.40ms max 0.40ms
+[10:44:16] Timer shaderInit: avg 0.41ms freq 0/s load 13.14% cur 0.41ms max 0.41ms
+[11:16:42] Timer shaderInit: avg 0.82ms freq 0/s load 0.00% cur 0.82ms max 0.82ms
+--- 2024/06/14 - 20:25 (7131)
+[20:25:41] Timer shaderInit: avg 0.32ms freq 0/s load 100.00% cur 0.32ms max 0.32ms
+[20:25:41] Timer shaderInit: avg 0.20ms freq 0/s load 0.23% cur 0.20ms max 0.32ms
+[20:25:41] Timer shaderInit: avg 0.18ms freq 0/s load 0.26% cur 0.18ms max 0.32ms
+[20:25:46] Timer shaderInit: avg 0.82ms freq 0/s load 0.02% cur 0.82ms max 0.82ms
+[20:25:46] Timer shaderInit: avg 0.45ms freq 0/s load 7.47% cur 0.45ms max 0.82ms
+--- 2024/06/14 - 21:23 (7131)
+[21:23:59] Timer shaderInit: avg 0.30ms freq 0/s load 100.00% cur 0.30ms max 0.30ms
+[21:23:59] Timer shaderInit: avg 0.16ms freq 0/s load 0.20% cur 0.16ms max 0.30ms
+[21:23:59] Timer shaderInit: avg 0.18ms freq 0/s load 0.36% cur 0.18ms max 0.30ms
+[21:24:10] Timer shaderInit: avg 0.19ms freq 0/s load 0.00% cur 0.19ms max 0.30ms
+[21:24:10] Timer shaderInit: avg 0.14ms freq 0/s load 4.24% cur 0.14ms max 0.30ms
+[21:24:49] Timer shaderInit: avg 0.56ms freq 0/s load 0.00% cur 0.56ms max 0.56ms
+--- 2024/08/24 - 16:47 (7131)
+[16:47:30] Timer shaderInit: avg 0.35ms freq 0/s load 100.00% cur 0.35ms max 0.35ms
+[16:47:30] Timer shaderInit: avg 0.28ms freq 0/s load 0.36% cur 0.28ms max 0.35ms
+[16:47:30] Timer shaderInit: avg 0.25ms freq 0/s load 0.33% cur 0.25ms max 0.35ms
+[16:47:35] Timer shaderInit: avg 0.33ms freq 0/s load 0.01% cur 0.33ms max 0.35ms
+[16:47:35] Timer shaderInit: avg 0.41ms freq 0/s load 8.06% cur 0.41ms max 0.41ms
+--- 2024/09/03 - 21:33 (7131)
+[21:33:17] Timer shaderInit: avg 0.42ms freq 0/s load 100.00% cur 0.42ms max 0.42ms
+[21:33:17] Timer shaderInit: avg 0.18ms freq 0/s load 0.21% cur 0.18ms max 0.42ms
+[21:33:17] Timer shaderInit: avg 0.20ms freq 0/s load 0.46% cur 0.20ms max 0.42ms
+[21:33:20] Timer shaderInit: avg 0.55ms freq 0/s load 0.02% cur 0.55ms max 0.55ms
+[21:33:20] Timer shaderInit: avg 0.24ms freq 0/s load 0.61% cur 0.24ms max 0.55ms
