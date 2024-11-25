@@ -24,7 +24,7 @@ button {color: red;
         border: 3px solid yellow;
         font-size: 40px;
         padding: 2px;
-        margin: 5;
+        margin: 5px;
 
 }
 
@@ -45,7 +45,7 @@ p {font-size: 20px;
 }
 
 #myself {
-      background-image: url("..//assets/sinking-boat\ \(9\)[2].jpg");
+      background-image: url("../assets/ME.jpg");
       height: 200px;
       width: 200px;
       background-size:cover ;
