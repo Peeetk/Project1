@@ -45,7 +45,7 @@ p {font-size: 20px;
 }
 
 #myself {
-      background-image: url("../MyApp202411211208331788/assets/ME.jpg");
+      background-image: url("assets/ME.jpg");
       height: 200px;
       width: 200px;
       background-size:cover ;
