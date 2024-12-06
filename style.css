@@ -34,7 +34,7 @@ p {font-size: 20px;
 }
 
 #banner {
-  background-image: url("../MyApp202411211208331788/assets/bright-daylight-environment-forest-240040-1\ \(1\).jpg");
+  background-image: url("assets/bright-daylight-environment-forest-240040-1 (1).jpg");
   background-size: cover;
   background-position: center;
   height: 200px;
@@ -65,7 +65,7 @@ p {font-size: 20px;
 
 }
 body {background-color: cornflowerblue;
-      background-image: url(../MyApp202411211208331788/assets/backgroundMain.jpg);
+      background-image: url(assets/backgroundMain.jpg);
       background-size: cover;
       
 
