@@ -18,7 +18,7 @@ a {color: white;
             font-weight: bold;
             font-style: italic;
           }
-button {color: red;
+.button {color: rgba(255, 0, 0, 0.911);
         background-color: blue;
         font-family: 'Raleway', sans-serif;
         border: 3px solid yellow;
